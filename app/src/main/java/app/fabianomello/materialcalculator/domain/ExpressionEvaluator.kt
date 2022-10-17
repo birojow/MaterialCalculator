@@ -1,8 +1,5 @@
 package app.fabianomello.materialcalculator.domain
 
-import kotlin.math.exp
-
-
 // expression:  term   | term + term     | term - term     |
 // term:        factor | factor * factor | factor / factor |
 // factor:      number | ( expression )  | + factor        | - factor
